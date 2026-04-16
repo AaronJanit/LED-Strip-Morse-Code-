@@ -1,4 +1,5 @@
 //important! there is no short_shluf!
+
 #include <Adafruit_NeoPixel.h>
 
 #define LED_PIN 2
@@ -42,5 +43,5 @@ void setup() {
 }
 
 void loop() {
-dot(); dot(); dot(); dot(); dot(); dot(); dash(); dot(); dot(); dot(); dash(); dot(); dot(); dash(); dash(); dash(); shluf(); dot(); dash(); dash(); dash(); dash(); dash(); dot(); dash(); dot(); dot(); dash(); dot(); dot(); dash(); dot(); dot();
+  //paste genarated morse code here
 }
