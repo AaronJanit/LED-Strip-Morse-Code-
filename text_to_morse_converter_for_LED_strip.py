@@ -39,7 +39,7 @@ MORSE_CODE_DICT = {
     ' ': 'shluf();'
 }
 #make into morse
-input_text = input("Enter text to be converted to morse:")
+input_text = input("Enter text to be converted to morse (for c):")
 # Function to convert text to Morse code
 def text_to_morse(input_text):
     morse_code = ''
